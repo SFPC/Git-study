@@ -2,6 +2,7 @@ Yo!
 
 Yorololooooo!
 
+
 HEAD
 
 
@@ -14,3 +15,10 @@ asldkhjflawheoruawehf yo
 b7bc4f938d94af3d8078e24993a532a3134a5fe7
 
 i win!:)git add yo.txt
+
+
+heeeeya
+
+
+
+delete all the ugly stuff
