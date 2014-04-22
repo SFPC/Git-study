@@ -2,7 +2,6 @@ Yo!
 
 Yorololooooo!
 
-
 HEAD
 
 
@@ -19,6 +18,6 @@ i win!:)git add yo.txt
 
 heeeeya
 
-
-
 delete all the ugly stuff
+
+Here's another change
